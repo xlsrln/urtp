@@ -36,7 +36,7 @@ Aros Marathon 50 km,Ursvik Ultra 45 km,0.8763414584297093
 Aros Marathon 50 km,Ursvik Ultra 75 km,0.495700332169832
 Aros Marathon 50 km,VXO 100 km,0.5076032397056428
 Aros Marathon 50 km,gax 100 miles,0.25021743003545305
-Aros Marathon 50 km,sörmlands100 100 km,0.38681087706633027
+Aros Marathon 50 km,Sörmlands100 100 km,0.38681087706633027
 Aros Marathon 50 km,Österlen Spring Trail,0.8138657344072865
 Aros Marathon 50 km,Östgöta ultra trail,0.7160929310572501
 Björnfrossa,Aros Marathon 50 km,1.6071582091246541
@@ -71,7 +71,7 @@ Björnfrossa,Ultravasan 90,0.7617021703181468
 Björnfrossa,Ursvik Ultra 45 km,1.4551739272139737
 Björnfrossa,Ursvik Ultra 75 km,0.7692331193688782
 Björnfrossa,gax 100 miles,0.3340292773189025
-Björnfrossa,sörmlands100 100 km,0.6434698215713935
+Björnfrossa,Sörmlands100 100 km,0.6434698215713935
 Björnfrossa,Österlen Spring Trail,1.2769490357611284
 Björnfrossa,Östgöta ultra trail,1.1105084440384054
 Black river run 100 miles,Aros Marathon 50 km,3.856475466701499
@@ -110,7 +110,7 @@ Black river run 100 miles,Ultravasan 90,2.0974113993385326
 Black river run 100 miles,Ursvik Ultra 75 km,2.0859757176406903
 Black river run 100 miles,VXO 100 km,3.226798347710192
 Black river run 100 miles,gax 100 miles,0.9135675055031207
-Black river run 100 miles,sörmlands100 100 km,1.7639824836067433
+Black river run 100 miles,Sörmlands100 100 km,1.7639824836067433
 Black river run 100 miles,Öland Ultra,4.539084294464107
 Black river run 100 miles,Österlen Spring Trail,3.306511968830625
 Black river run 100 miles,Östgöta ultra trail,2.960693843086327
@@ -169,7 +169,7 @@ Borås 50 km,Sörmlands100 55 km,0.9491942148760331
 Borås 50 km,Trail genom Skåne,1.1101738241308794
 Borås 50 km,UKA pain 50 km,0.859750883664587
 Borås 50 km,Ultravasan 90,0.5360611429237216
-Borås 50 km,sörmlands100 100 km,0.4531999003922057
+Borås 50 km,Sörmlands100 100 km,0.4531999003922057
 Borås 50 km,Österlen Spring Trail,0.9561817176028632
 Borås 91 km,Black river run 100 miles,0.5104702555774532
 Borås 91 km,Borås 50 km,2.050580656868082
@@ -228,7 +228,7 @@ Ecotrail Stockholm 45 km,Ursvik Ultra 45 km,0.9615171320016015
 Ecotrail Stockholm 45 km,Ursvik Ultra 75 km,0.5609095979102126
 Ecotrail Stockholm 45 km,VXO 100 km,0.8738618925912452
 Ecotrail Stockholm 45 km,gax 100 miles,0.21269476952933655
-Ecotrail Stockholm 45 km,sörmlands100 100 km,0.4546363565190561
+Ecotrail Stockholm 45 km,Sörmlands100 100 km,0.4546363565190561
 Ecotrail Stockholm 45 km,Österlen Spring Trail,0.7895592976884963
 Ecotrail Stockholm 45 km,Östgöta ultra trail,0.7079989561773905
 Ecotrail Stockholm 80,Aros Marathon 50 km,2.011672086784474
@@ -274,7 +274,7 @@ Ecotrail Stockholm 80,Ursvik Ultra 45 km,1.8763311522365806
 Ecotrail Stockholm 80,Ursvik Ultra 75 km,1.0003728166578305
 Ecotrail Stockholm 80,VXO 100 km,1.4155144286399415
 Ecotrail Stockholm 80,gax 100 miles,0.41762252337905476
-Ecotrail Stockholm 80,sörmlands100 100 km,0.8454687199647681
+Ecotrail Stockholm 80,Sörmlands100 100 km,0.8454687199647681
 Ecotrail Stockholm 80,Österlen Spring Trail,1.541940554810921
 Ecotrail Stockholm 80,Östgöta ultra trail,1.3405653334009187
 Fjällmaraton 100 km,Aros Marathon 50 km,3.0581079465609804
@@ -315,7 +315,7 @@ Fjällmaraton 100 km,Ursvik Ultra 45 km,3.0693615231309512
 Fjällmaraton 100 km,Ursvik Ultra 75 km,1.6300370622838831
 Fjällmaraton 100 km,VXO 100 km,1.9330253593390467
 Fjällmaraton 100 km,gax 100 miles,0.6868552589771406
-Fjällmaraton 100 km,sörmlands100 100 km,1.2823057058410248
+Fjällmaraton 100 km,Sörmlands100 100 km,1.2823057058410248
 Fjällmaraton 100 km,Österlen Spring Trail,2.382265732217294
 Fjällmaraton 100 km,Östgöta ultra trail,2.058874775319674
 Fjällmaraton 45 km,Aros Marathon 50 km,1.2527833536807935
@@ -356,7 +356,7 @@ Fjällmaraton 45 km,Ursvik Ultra 45 km,1.1604219237302378
 Fjällmaraton 45 km,Ursvik Ultra 75 km,0.6443705219554438
 Fjällmaraton 45 km,VXO 100 km,1.0171092614612234
 Fjällmaraton 45 km,gax 100 miles,0.2579068018420709
-Fjällmaraton 45 km,sörmlands100 100 km,0.5055804913350413
+Fjällmaraton 45 km,Sörmlands100 100 km,0.5055804913350413
 Fjällmaraton 45 km,Öland Ultra,1.2044560822444699
 Fjällmaraton 45 km,Österlen Spring Trail,0.9578761637450881
 Fjällmaraton 45 km,Östgöta ultra trail,0.8225247735144171
@@ -374,7 +374,7 @@ Gotland Run 511 km,UKA pain 50 km,19.649122807017545
 Gotland Run 511 km,Ursvik Ultra 75 km,11.799866128247082
 Gotland Run 511 km,VXO 100 km,13.349235131615776
 Gotland Run 511 km,gax 100 miles,4.623662680931403
-Gotland Run 511 km,sörmlands100 100 km,10.598631566740114
+Gotland Run 511 km,Sörmlands100 100 km,10.598631566740114
 Gotland Ultra,Aros Marathon 50 km,1.100785801787614
 Gotland Ultra,Björnfrossa,0.6825572599536365
 Gotland Ultra,Black river run 50 miles,0.5152198783542721
@@ -405,7 +405,7 @@ Gotland Ultra,Ultravasan 90,0.5319199598527108
 Gotland Ultra,Ursvik Ultra 45 km,0.9395315993949762
 Gotland Ultra,VXO 100 km,0.5430504760353584
 Gotland Ultra,gax 100 miles,0.22739401558682087
-Gotland Ultra,sörmlands100 100 km,0.4065579021048089
+Gotland Ultra,Sörmlands100 100 km,0.4065579021048089
 Gotland Ultra,Öland Ultra,1.2222084557925315
 Gotland Ultra,Österlen Spring Trail,0.7773482097255665
 Gotland Ultra,Östgöta ultra trail,0.6525957832691
@@ -444,7 +444,7 @@ Gotrun enkle,Ursvik Ultra 45 km,1.4923906033654641
 Gotrun enkle,Ursvik Ultra 75 km,0.81609011641047
 Gotrun enkle,VXO 100 km,0.9246779859095116
 Gotrun enkle,gax 100 miles,0.37042998175049446
-Gotrun enkle,sörmlands100 100 km,0.7128514688132633
+Gotrun enkle,Sörmlands100 100 km,0.7128514688132633
 Gotrun enkle,Österlen Spring Trail,1.3679331513327686
 Gotrun enkle,Östgöta ultra trail,1.1898131085693129
 Göteborg Trail,Björnfrossa,0.8480718876457987
@@ -472,7 +472,7 @@ Göteborg Trail,TEC 100 miles,0.289655423529269
 Göteborg Trail,UKA pain 50 km,1.1365126075444258
 Göteborg Trail,Ultravasan 90,0.6677806932784831
 Göteborg Trail,gax 100 miles,0.28169263456090654
-Göteborg Trail,sörmlands100 100 km,0.577273461326756
+Göteborg Trail,Sörmlands100 100 km,0.577273461326756
 Göteborg Trail,Österlen Spring Trail,0.989157904299848
 Göteborg Trail,Östgöta ultra trail,0.8443923947523787
 Hammarby Alpin Marathon,Aros Marathon 50 km,0.9940557280153572
@@ -507,7 +507,7 @@ Hammarby Alpin Marathon,Ursvik Ultra 45 km,0.8926605504555493
 Hammarby Alpin Marathon,Ursvik Ultra 75 km,0.494940587746685
 Hammarby Alpin Marathon,VXO 100 km,0.5310821720664116
 Hammarby Alpin Marathon,gax 100 miles,0.22677842252310337
-Hammarby Alpin Marathon,sörmlands100 100 km,0.43363668347756584
+Hammarby Alpin Marathon,Sörmlands100 100 km,0.43363668347756584
 Hammarby Alpin Marathon,Öland Ultra,0.9981415687346269
 Hammarby Alpin Marathon,Österlen Spring Trail,0.7213322435635472
 Hammarby Alpin Marathon,Östgöta ultra trail,0.6571340713407134
@@ -552,7 +552,7 @@ Idre 45 km,Ursvik Ultra 45 km,1.068634227702353
 Idre 45 km,Ursvik Ultra 75 km,0.6424726824039982
 Idre 45 km,VXO 100 km,0.7723096223627752
 Idre 45 km,gax 100 miles,0.2533637865150236
-Idre 45 km,sörmlands100 100 km,0.49443425719842043
+Idre 45 km,Sörmlands100 100 km,0.49443425719842043
 Idre 45 km,Öland Ultra,1.0660569782472828
 Idre 45 km,Österlen Spring Trail,0.8910572754875247
 Idre 45 km,Östgöta ultra trail,0.7864526088427397
@@ -590,7 +590,7 @@ Jättelångt,Ursvik Ultra 45 km,1.4289351610179675
 Jättelångt,Ursvik Ultra 75 km,0.8171770190493775
 Jättelångt,VXO 100 km,1.4391733661669202
 Jättelångt,gax 100 miles,0.33489202327770523
-Jättelångt,sörmlands100 100 km,0.6176969627574079
+Jättelångt,Sörmlands100 100 km,0.6176969627574079
 Jättelångt,Österlen Spring Trail,1.2137838991374126
 Jättelångt,Östgöta ultra trail,1.0540979172301865
 Kolmården Ultra Trail,Aros Marathon 50 km,1.3132026376383807
@@ -621,7 +621,7 @@ Kolmården Ultra Trail,UKA pain 50 km,0.9038448775759564
 Kolmården Ultra Trail,Ultravasan 90,0.6100641051342789
 Kolmården Ultra Trail,Ursvik Ultra 75 km,0.5774288242313004
 Kolmården Ultra Trail,VXO 100 km,0.6411492510842752
-Kolmården Ultra Trail,sörmlands100 100 km,0.4682693164871657
+Kolmården Ultra Trail,Sörmlands100 100 km,0.4682693164871657
 Kolmården Ultra Trail,Öland Ultra,1.6856556803878606
 Kolmården Ultra Trail,Österlen Spring Trail,0.9169677825141402
 Kolmården Ultra Trail,Östgöta ultra trail,1.09336174682857
@@ -667,7 +667,7 @@ Kullamannen 100 km,Ursvik Ultra 45 km,2.6016784746223287
 Kullamannen 100 km,Ursvik Ultra 75 km,1.491605798504112
 Kullamannen 100 km,VXO 100 km,2.2875423348520414
 Kullamannen 100 km,gax 100 miles,0.6227174192501544
-Kullamannen 100 km,sörmlands100 100 km,1.1436648232259716
+Kullamannen 100 km,Sörmlands100 100 km,1.1436648232259716
 Kullamannen 100 km,Öland Ultra,3.668552036199095
 Kullamannen 100 km,Österlen Spring Trail,2.1899091835199105
 Kullamannen 100 km,Östgöta ultra trail,2.051168394929341
@@ -715,7 +715,7 @@ Kullamannen 100 miles,Ursvik Ultra 45 km,4.582823468907136
 Kullamannen 100 miles,Ursvik Ultra 75 km,2.536952478309171
 Kullamannen 100 miles,VXO 100 km,3.439212681868598
 Kullamannen 100 miles,gax 100 miles,1.060067739279028
-Kullamannen 100 miles,sörmlands100 100 km,1.9958494094217059
+Kullamannen 100 miles,Sörmlands100 100 km,1.9958494094217059
 Kullamannen 100 miles,Öland Ultra,5.3203086362624905
 Kullamannen 100 miles,Österlen Spring Trail,3.8849748341684145
 Kullamannen 100 miles,Östgöta ultra trail,3.212773892083939
@@ -760,7 +760,7 @@ Kullamannen 50 km,Ursvik Ultra 45 km,1.2620542800061216
 Kullamannen 50 km,Ursvik Ultra 75 km,0.7319223679494306
 Kullamannen 50 km,VXO 100 km,0.8608520481126775
 Kullamannen 50 km,gax 100 miles,0.2690838684362264
-Kullamannen 50 km,sörmlands100 100 km,0.5382631330082607
+Kullamannen 50 km,Sörmlands100 100 km,0.5382631330082607
 Kullamannen 50 km,Öland Ultra,1.2041407019338162
 Kullamannen 50 km,Österlen Spring Trail,0.9463273872642372
 Kullamannen 50 km,Östgöta ultra trail,0.79918881775412
@@ -832,7 +832,7 @@ Peters Trail 52 km,Silverleden Ultra,0.7437383878207864
 Peters Trail 52 km,Sätila 85 km,0.5790771306965639
 Peters Trail 52 km,Sörmland Ultra Marathon,1.227354223544273
 Peters Trail 52 km,Ultravasan 90,0.6004298958926814
-Peters Trail 52 km,sörmlands100 100 km,0.518367097876495
+Peters Trail 52 km,Sörmlands100 100 km,0.518367097876495
 Peters Trail 52 km,Öland Ultra,1.4203067456062655
 Peters Trail 52 km,Österlen Spring Trail,1.0247557683931483
 Peters Trail 52 km,Östgöta ultra trail,0.8962033978993722
@@ -876,7 +876,7 @@ Sandsjöbacka 60 km,Ursvik Ultra 45 km,1.3727561556791104
 Sandsjöbacka 60 km,Ursvik Ultra 75 km,0.852463541906148
 Sandsjöbacka 60 km,VXO 100 km,1.0168912205397242
 Sandsjöbacka 60 km,gax 100 miles,0.3465313035665855
-Sandsjöbacka 60 km,sörmlands100 100 km,0.6015365078315016
+Sandsjöbacka 60 km,Sörmlands100 100 km,0.6015365078315016
 Sandsjöbacka 60 km,Öland Ultra,1.8789907650286581
 Sandsjöbacka 60 km,Österlen Spring Trail,1.1633485892399693
 Sandsjöbacka 60 km,Östgöta ultra trail,1.051128626995537
@@ -914,7 +914,7 @@ Sandsjöbacka 90 km,Ultravasan 90,1.512246183757554
 Sandsjöbacka 90 km,Ursvik Ultra 75 km,1.5588523878933405
 Sandsjöbacka 90 km,VXO 100 km,1.940596581006822
 Sandsjöbacka 90 km,gax 100 miles,0.6025217841309315
-Sandsjöbacka 90 km,sörmlands100 100 km,1.1793443119037121
+Sandsjöbacka 90 km,Sörmlands100 100 km,1.1793443119037121
 Sandsjöbacka 90 km,Österlen Spring Trail,2.1553792333064754
 Sandsjöbacka 90 km,Östgöta ultra trail,1.9070439944714783
 Silverleden Ultra,Aros Marathon 50 km,1.5725785236874281
@@ -952,7 +952,7 @@ Silverleden Ultra,Ursvik Ultra 45 km,1.4534507240282448
 Silverleden Ultra,Ursvik Ultra 75 km,0.8251195055863878
 Silverleden Ultra,VXO 100 km,0.9617116612523804
 Silverleden Ultra,gax 100 miles,0.3612039451744361
-Silverleden Ultra,sörmlands100 100 km,0.6663825928740948
+Silverleden Ultra,Sörmlands100 100 km,0.6663825928740948
 Silverleden Ultra,Öland Ultra,1.9586965642627383
 Silverleden Ultra,Österlen Spring Trail,1.2886615091818092
 Silverleden Ultra,Östgöta ultra trail,1.099140798362579
@@ -1015,7 +1015,7 @@ Sätila 85 km,Ultravasan 90,1.0525759055777668
 Sätila 85 km,Ursvik Ultra 75 km,1.2918506292552094
 Sätila 85 km,VXO 100 km,1.0816023187544126
 Sätila 85 km,gax 100 miles,0.5040913524614347
-Sätila 85 km,sörmlands100 100 km,0.8114683521113859
+Sätila 85 km,Sörmlands100 100 km,0.8114683521113859
 Sätila 85 km,Öland Ultra,2.5875375785733805
 Sätila 85 km,Österlen Spring Trail,1.647712918891976
 Sätila 85 km,Östgöta ultra trail,1.4988495868037968
@@ -1057,7 +1057,7 @@ Sörmland Ultra Marathon,Ursvik Ultra 45 km,0.9603657712560987
 Sörmland Ultra Marathon,Ursvik Ultra 75 km,0.5505936207276778
 Sörmland Ultra Marathon,VXO 100 km,0.7921457791655522
 Sörmland Ultra Marathon,gax 100 miles,0.22929767240131685
-Sörmland Ultra Marathon,sörmlands100 100 km,0.4131178180946876
+Sörmland Ultra Marathon,Sörmlands100 100 km,0.4131178180946876
 Sörmland Ultra Marathon,Öland Ultra,1.0738453129270293
 Sörmland Ultra Marathon,Österlen Spring Trail,0.8146590267684979
 Sörmland Ultra Marathon,Östgöta ultra trail,0.7223562103449804
@@ -1095,7 +1095,7 @@ Sörmlands100 100 miles,Ursvik Ultra 45 km,5.1850789784982645
 Sörmlands100 100 miles,Ursvik Ultra 75 km,2.7851550019758085
 Sörmlands100 100 miles,VXO 100 km,3.3862994574356695
 Sörmlands100 100 miles,gax 100 miles,1.1130098025257917
-Sörmlands100 100 miles,sörmlands100 100 km,2.129854546515539
+Sörmlands100 100 miles,Sörmlands100 100 km,2.129854546515539
 Sörmlands100 100 miles,Öland Ultra,5.6685233851145975
 Sörmlands100 100 miles,Österlen Spring Trail,4.127318793017568
 Sörmlands100 100 miles,Östgöta ultra trail,3.5663886202095756
@@ -1131,7 +1131,7 @@ Sörmlands100 55 km,Ursvik Ultra 45 km,1.2083377160688615
 Sörmlands100 55 km,Ursvik Ultra 75 km,0.6350160839363115
 Sörmlands100 55 km,VXO 100 km,0.6598530447449633
 Sörmlands100 55 km,gax 100 miles,0.2053224519455829
-Sörmlands100 55 km,sörmlands100 100 km,0.5491153757093555
+Sörmlands100 55 km,Sörmlands100 100 km,0.5491153757093555
 Sörmlands100 55 km,Österlen Spring Trail,0.9184144924961644
 Sörmlands100 55 km,Östgöta ultra trail,0.8330709332182632
 TEC 100 miles,Aros Marathon 50 km,4.277920039805688
@@ -1175,7 +1175,7 @@ TEC 100 miles,Ursvik Ultra 45 km,4.105232275260986
 TEC 100 miles,Ursvik Ultra 75 km,2.2809359123819375
 TEC 100 miles,VXO 100 km,3.288055799077425
 TEC 100 miles,gax 100 miles,0.9571635052516472
-TEC 100 miles,sörmlands100 100 km,1.8956750854538549
+TEC 100 miles,Sörmlands100 100 km,1.8956750854538549
 TEC 100 miles,Öland Ultra,4.538295739348371
 TEC 100 miles,Österlen Spring Trail,3.482284978631831
 TEC 100 miles,Östgöta ultra trail,2.9240244949581293
@@ -1246,7 +1246,7 @@ TEC 50 miles,Ursvik Ultra 45 km,1.7875912804321483
 TEC 50 miles,Ursvik Ultra 75 km,0.9679099800133483
 TEC 50 miles,VXO 100 km,1.70143183561976
 TEC 50 miles,gax 100 miles,0.4381115705114549
-TEC 50 miles,sörmlands100 100 km,0.7286774215506092
+TEC 50 miles,Sörmlands100 100 km,0.7286774215506092
 TEC 50 miles,Österlen Spring Trail,1.5626876174962723
 TEC 50 miles,Östgöta ultra trail,1.2528140663083787
 Trail genom Skåne,Black river run 100 miles,0.23916813169592466
@@ -1267,7 +1267,7 @@ Trail genom Skåne,TEC 100 miles,0.22306829746170828
 Trail genom Skåne,Ultravasan 90,0.4788881948782011
 Trail genom Skåne,VXO 100 km,0.509159823120657
 Trail genom Skåne,gax 100 miles,0.23172210476747415
-Trail genom Skåne,sörmlands100 100 km,0.41635360140995314
+Trail genom Skåne,Sörmlands100 100 km,0.41635360140995314
 Trail genom Skåne,Öland Ultra,1.1528923332410739
 Trail genom Skåne,Österlen Spring Trail,0.811983276152997
 Trans Scania,Aros Marathon 50 km,7.0478900319391
@@ -1294,7 +1294,7 @@ Trans Scania,TEC 50 miles,3.552751649585849
 Trans Scania,Ultravasan 90,4.484155436346984
 Trans Scania,VXO 100 km,5.437129168385316
 Trans Scania,gax 100 miles,1.7704456732440372
-Trans Scania,sörmlands100 100 km,3.1269945955848675
+Trans Scania,Sörmlands100 100 km,3.1269945955848675
 Trans Scania,Österlen Spring Trail,6.35615375142265
 Trans Scania,Östgöta ultra trail,5.731651380494029
 UKA pain 50 km,Aros Marathon 50 km,1.2249198717948717
@@ -1335,7 +1335,7 @@ UKA pain 50 km,Ursvik Ultra 45 km,1.1489837785820995
 UKA pain 50 km,Ursvik Ultra 75 km,0.6354427968222708
 UKA pain 50 km,VXO 100 km,1.0116924296472454
 UKA pain 50 km,gax 100 miles,0.2792855584148275
-UKA pain 50 km,sörmlands100 100 km,0.513417691564801
+UKA pain 50 km,Sörmlands100 100 km,0.513417691564801
 UKA pain 50 km,Österlen Spring Trail,0.9989986855951731
 UKA pain 50 km,Östgöta ultra trail,0.8518471854633436
 UTMB,Black river run 100 miles,1.61711808387346
@@ -1357,7 +1357,7 @@ UTMB,TEC 50 miles,3.7630962441453644
 UTMB,UKA pain 50 km,6.292505742214625
 UTMB,Ultravasan 90,3.855760200471227
 UTMB,Ursvik Ultra 75 km,4.099367249576995
-UTMB,sörmlands100 100 km,3.557062508899331
+UTMB,Sörmlands100 100 km,3.557062508899331
 UTMB,Österlen Spring Trail,6.085784817938696
 Ultravasan 90,Aros Marathon 50 km,2.1334333879321465
 Ultravasan 90,Björnfrossa,1.3177515068376224
@@ -1402,7 +1402,7 @@ Ultravasan 90,Ursvik Ultra 45 km,1.843683834212209
 Ultravasan 90,Ursvik Ultra 75 km,0.9632317240508289
 Ultravasan 90,VXO 100 km,1.3229928110403757
 Ultravasan 90,gax 100 miles,0.42672028002635437
-Ultravasan 90,sörmlands100 100 km,0.848364579227475
+Ultravasan 90,Sörmlands100 100 km,0.848364579227475
 Ultravasan 90,Öland Ultra,2.2687298237919555
 Ultravasan 90,Österlen Spring Trail,1.512069394143211
 Ultravasan 90,Östgöta ultra trail,1.3750676188231152
@@ -1432,7 +1432,7 @@ Ursvik Ultra 45 km,TEC 50 miles,0.5617306427709137
 Ursvik Ultra 45 km,UKA pain 50 km,0.8741597820078646
 Ursvik Ultra 45 km,Ultravasan 90,0.5510366756198603
 Ursvik Ultra 45 km,Ursvik Ultra 75 km,0.5085905074920515
-Ursvik Ultra 45 km,sörmlands100 100 km,0.44246776379814223
+Ursvik Ultra 45 km,Sörmlands100 100 km,0.44246776379814223
 Ursvik Ultra 45 km,Österlen Spring Trail,0.8470908948141366
 Ursvik Ultra 75 km,Aros Marathon 50 km,2.0245683546046247
 Ursvik Ultra 75 km,Björnfrossa,1.304738275734104
@@ -1469,7 +1469,7 @@ Ursvik Ultra 75 km,Ultravasan 90,1.0477765822826057
 Ursvik Ultra 75 km,Ursvik Ultra 45 km,1.9993561321832427
 Ursvik Ultra 75 km,VXO 100 km,1.7040507026729126
 Ursvik Ultra 75 km,gax 100 miles,0.43712693645245915
-Ursvik Ultra 75 km,sörmlands100 100 km,0.7792737283535693
+Ursvik Ultra 75 km,Sörmlands100 100 km,0.7792737283535693
 Ursvik Ultra 75 km,Östgöta ultra trail,1.3115092326731839
 VXO 100 km,Aros Marathon 50 km,1.9700425879470276
 VXO 100 km,Black river run 100 miles,0.3231145055806065
@@ -1548,50 +1548,50 @@ gax 100 miles,UKA pain 50 km,3.6443851464841504
 gax 100 miles,Ultravasan 90,2.38640149709822
 gax 100 miles,Ursvik Ultra 75 km,2.3115592938447485
 gax 100 miles,VXO 100 km,3.8310550286968965
-gax 100 miles,sörmlands100 100 km,1.973239259702569
+gax 100 miles,Sörmlands100 100 km,1.973239259702569
 gax 100 miles,Öland Ultra,5.036591478696742
 gax 100 miles,Österlen Spring Trail,3.6616502891310083
 gax 100 miles,Östgöta ultra trail,3.0439742046730687
-sörmlands100 100 km,Aros Marathon 50 km,2.6357688723608903
-sörmlands100 100 km,Björnfrossa,1.5569612105706632
-sörmlands100 100 km,Black river run 100 miles,0.5668990533031488
-sörmlands100 100 km,Borås 50 km,2.2065318177135205
-sörmlands100 100 km,Ecotrail Stockholm 45 km,2.1998971268005643
-sörmlands100 100 km,Ecotrail Stockholm 80,1.1855549813463369
-sörmlands100 100 km,Fjällmaraton 100 km,0.784167226581286
-sörmlands100 100 km,Fjällmaraton 45 km,1.997846911358314
-sörmlands100 100 km,Gotland Run 511 km,0.09435180322128851
-sörmlands100 100 km,Gotland Ultra,2.4697311468160557
-sörmlands100 100 km,Gotrun enkle,1.407123728928654
-sörmlands100 100 km,Göteborg Trail,1.7336915223128868
-sörmlands100 100 km,Hammarby Alpin Marathon,2.310390163553845
-sörmlands100 100 km,Idre 45 km,2.0348459105387646
-sörmlands100 100 km,Jättelångt,1.620210120502213
-sörmlands100 100 km,Kolmården Ultra Trail,2.1383934034534793
-sörmlands100 100 km,Kullamannen 100 km,0.8762740086994364
-sörmlands100 100 km,Kullamannen 100 miles,0.5069334344899166
-sörmlands100 100 km,Kullamannen 50 km,1.8677647045060524
-sörmlands100 100 km,Peters Trail 52 km,1.9291347851677458
-sörmlands100 100 km,Sandsjöbacka 60 km,1.6720051022539475
-sörmlands100 100 km,Sandsjöbacka 90 km,0.8545046948203336
-sörmlands100 100 km,Silverleden Ultra,1.5106446187368827
-sörmlands100 100 km,Sätila 85 km,1.232333950422179
-sörmlands100 100 km,Sörmland Ultra Marathon,2.431939412197879
-sörmlands100 100 km,Sörmlands100 100 miles,0.4709040205906207
-sörmlands100 100 km,Sörmlands100 55 km,1.8219109514264593
-sörmlands100 100 km,TEC 100 miles,0.52751656002304
-sörmlands100 100 km,TEC 50 miles,1.3723493694535265
-sörmlands100 100 km,Trail genom Skåne,2.4018046117856744
-sörmlands100 100 km,Trans Scania,0.31979588369354434
-sörmlands100 100 km,UKA pain 50 km,1.959353854469426
-sörmlands100 100 km,UTMB,0.28113084813610206
-sörmlands100 100 km,Ultravasan 90,1.1859125061678437
-sörmlands100 100 km,Ursvik Ultra 45 km,2.2718100231743414
-sörmlands100 100 km,Ursvik Ultra 75 km,1.2942952165607342
-sörmlands100 100 km,gax 100 miles,0.5081094544627988
-sörmlands100 100 km,Öland Ultra,2.6940601365061796
-sörmlands100 100 km,Österlen Spring Trail,1.874201314358298
-sörmlands100 100 km,Östgöta ultra trail,1.619315444329913
+Sörmlands100 100 km,Aros Marathon 50 km,2.6357688723608903
+Sörmlands100 100 km,Björnfrossa,1.5569612105706632
+Sörmlands100 100 km,Black river run 100 miles,0.5668990533031488
+Sörmlands100 100 km,Borås 50 km,2.2065318177135205
+Sörmlands100 100 km,Ecotrail Stockholm 45 km,2.1998971268005643
+Sörmlands100 100 km,Ecotrail Stockholm 80,1.1855549813463369
+Sörmlands100 100 km,Fjällmaraton 100 km,0.784167226581286
+Sörmlands100 100 km,Fjällmaraton 45 km,1.997846911358314
+Sörmlands100 100 km,Gotland Run 511 km,0.09435180322128851
+Sörmlands100 100 km,Gotland Ultra,2.4697311468160557
+Sörmlands100 100 km,Gotrun enkle,1.407123728928654
+Sörmlands100 100 km,Göteborg Trail,1.7336915223128868
+Sörmlands100 100 km,Hammarby Alpin Marathon,2.310390163553845
+Sörmlands100 100 km,Idre 45 km,2.0348459105387646
+Sörmlands100 100 km,Jättelångt,1.620210120502213
+Sörmlands100 100 km,Kolmården Ultra Trail,2.1383934034534793
+Sörmlands100 100 km,Kullamannen 100 km,0.8762740086994364
+Sörmlands100 100 km,Kullamannen 100 miles,0.5069334344899166
+Sörmlands100 100 km,Kullamannen 50 km,1.8677647045060524
+Sörmlands100 100 km,Peters Trail 52 km,1.9291347851677458
+Sörmlands100 100 km,Sandsjöbacka 60 km,1.6720051022539475
+Sörmlands100 100 km,Sandsjöbacka 90 km,0.8545046948203336
+Sörmlands100 100 km,Silverleden Ultra,1.5106446187368827
+Sörmlands100 100 km,Sätila 85 km,1.232333950422179
+Sörmlands100 100 km,Sörmland Ultra Marathon,2.431939412197879
+Sörmlands100 100 km,Sörmlands100 100 miles,0.4709040205906207
+Sörmlands100 100 km,Sörmlands100 55 km,1.8219109514264593
+Sörmlands100 100 km,TEC 100 miles,0.52751656002304
+Sörmlands100 100 km,TEC 50 miles,1.3723493694535265
+Sörmlands100 100 km,Trail genom Skåne,2.4018046117856744
+Sörmlands100 100 km,Trans Scania,0.31979588369354434
+Sörmlands100 100 km,UKA pain 50 km,1.959353854469426
+Sörmlands100 100 km,UTMB,0.28113084813610206
+Sörmlands100 100 km,Ultravasan 90,1.1859125061678437
+Sörmlands100 100 km,Ursvik Ultra 45 km,2.2718100231743414
+Sörmlands100 100 km,Ursvik Ultra 75 km,1.2942952165607342
+Sörmlands100 100 km,gax 100 miles,0.5081094544627988
+Sörmlands100 100 km,Öland Ultra,2.6940601365061796
+Sörmlands100 100 km,Österlen Spring Trail,1.874201314358298
+Sörmlands100 100 km,Östgöta ultra trail,1.619315444329913
 Öland Ultra,Black river run 100 miles,0.22094056347943503
 Öland Ultra,Black river run 50 miles,0.255500627545401
 Öland Ultra,Fjällmaraton 45 km,0.8490398877102705
@@ -1613,7 +1613,7 @@ sörmlands100 100 km,Östgöta ultra trail,1.619315444329913
 Öland Ultra,Ultravasan 90,0.44172750053239934
 Öland Ultra,VXO 100 km,0.8222484508704633
 Öland Ultra,gax 100 miles,0.198546974522293
-Öland Ultra,sörmlands100 100 km,0.37118696292238695
+Öland Ultra,Sörmlands100 100 km,0.37118696292238695
 Öland Ultra,Österlen Spring Trail,0.7053309645046415
 Österlen Spring Trail,Aros Marathon 50 km,1.2316139396219812
 Österlen Spring Trail,Björnfrossa,0.7831173942559264
@@ -1657,7 +1657,7 @@ sörmlands100 100 km,Östgöta ultra trail,1.619315444329913
 Österlen Spring Trail,Ursvik Ultra 45 km,1.1817518039221815
 Österlen Spring Trail,VXO 100 km,1.0909592015614067
 Österlen Spring Trail,gax 100 miles,0.2752120250370351
-Österlen Spring Trail,sörmlands100 100 km,0.5359707160301146
+Österlen Spring Trail,Sörmlands100 100 km,0.5359707160301146
 Österlen Spring Trail,Öland Ultra,1.4186689481890074
 Österlen Spring Trail,Östgöta ultra trail,0.8654330867060922
 Östgöta ultra trail,Aros Marathon 50 km,1.3970332061391204
@@ -1695,5 +1695,5 @@ sörmlands100 100 km,Östgöta ultra trail,1.619315444329913
 Östgöta ultra trail,Ursvik Ultra 75 km,0.7627810693624342
 Östgöta ultra trail,VXO 100 km,0.909858171780309
 Östgöta ultra trail,gax 100 miles,0.32952133911683756
-Östgöta ultra trail,sörmlands100 100 km,0.6186361130086705
+Östgöta ultra trail,Sörmlands100 100 km,0.6186361130086705
 Östgöta ultra trail,Österlen Spring Trail,1.1578738587604311
